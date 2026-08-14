@@ -1,0 +1,10 @@
+{
+  "name": "Huzur Vakti",
+  "short_name": "HuzurVakti",
+  "start_url": "/namaz-takip-pro/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981",
+  "description": "Namaz ve Maneviyat Takip Pro"
+}
+
